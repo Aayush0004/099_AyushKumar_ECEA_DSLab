@@ -2,7 +2,7 @@
 Name-Ayush Kumar
 Enrollment No.-23DOECBTEC000099
 Branch - ECE A
-Roll NO.-2023ECE096
+Roll NO.-2023ECE099
 */
   
 #include <stdio.h>
